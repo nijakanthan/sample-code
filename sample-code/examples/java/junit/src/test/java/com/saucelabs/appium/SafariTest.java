@@ -23,7 +23,7 @@ import static org.junit.Assert.*;
  */
 public class SafariTest {
 
-    private WebDriver driver;
+    private AppiumDriver driver;
 
     /**
      * Instantiates the {@link #driver} instance by using DesiredCapabilities which specify the
